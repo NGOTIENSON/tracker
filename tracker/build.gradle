@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin:'base'
 
 def versionMajor = 4
 def versionMinor = 1
